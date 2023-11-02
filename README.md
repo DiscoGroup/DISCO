@@ -1,2 +1,2 @@
 # DISCO
-read me
+read me now
